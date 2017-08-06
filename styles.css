@@ -1,0 +1,23 @@
+body html {
+  width: 100%;
+  background: #eee;
+}
+
+.card-panel {
+  height: 100px;
+  font-size: 2.5rem;
+  color: white;
+}
+
+a {
+  width: 330px;
+}
+
+.add.words {
+  margin-left: 20px;
+}
+
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #fff;
+  box-shadow: 0 1px 0 0 #fff;
+}
